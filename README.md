@@ -1,7 +1,12 @@
 # flarepy
 A basic python script that pulls breached credentials from the flare.io api by domain name.
 
+Flare.py will print out a list of usernames and passwords found for a given domain.
 
+### The list eliminates:
+
+- duplicates
+- long hashes
 
 # Usage
 ## Install
