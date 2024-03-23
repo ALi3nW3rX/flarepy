@@ -13,7 +13,7 @@ Flare.py will print out a list of usernames and passwords found for a given doma
 
 ```
 
-git clone 
+git clone https://github.com/ALi3nW3rX/flarepy.git
 cd flarepy
 
 ```
